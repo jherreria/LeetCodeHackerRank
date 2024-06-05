@@ -7,7 +7,7 @@ package com.jorgeherreria.leetcode;
 import java.util.Map;
 import java.util.HashMap; 
 
-public class MinimumCosstForTickets {
+public class MinimumCostForTickets {
     
     /** tikct[x] covers 'value' days **/
     int []ticketDuration ={1,7,30};
@@ -17,7 +17,7 @@ public class MinimumCosstForTickets {
     Map<Integer, Integer> costAtDay = new HashMap<>();
     
     public static void main(String[] args){
-        MinimumCosstForTickets m = new MinimumCosstForTickets();
+        MinimumCostForTickets m = new MinimumCostForTickets();
         int[] days = {4,6,7,8,20};
         int[] costs ={2,7,15};
         System.out.print("For days: ");
