@@ -1,2 +1,2 @@
 # LeetCodeHackerRank
-Solutions tto some of the problems
+Solutions to some of the LeetCode and HackerRank challenges
